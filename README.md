@@ -4,22 +4,6 @@ I'm from Turkey, and I'm passionate about coding. Currently, I'm a student, alwa
 
 ---
 
-## 🌟 GitHub Profile Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainha87&layout=compact&theme=radical" alt="Top languages used" width="48%" />
-</p>
-
----
-
-## 🏅 Badges & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rainha87&theme=onestar&no-frame=true&margin-w=15&margin-h=15" alt="Rainha's trophies" width="70%" />
-</p>
-
----
-
 ## 🚀 Languages and Tools
 
 <p align="center">
