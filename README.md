@@ -9,17 +9,10 @@ Türkiye'de yaşıyorum ve yazılım dünyasına büyük bir tutkuyla bağlıyı
 
 ## 📫 Benimle İletişime Geçin
 
-<p align="center">
-  <a href="https://twitter.com/rainhacimharikasin">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/drienriacht">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/channel/syntagod">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://discord.com/908464652688711680">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+<p align="left">
+<a href="https://dev.to/rainha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rainha" height="30" width="40" /></a>
+<a href="https://twitter.com/rainha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rainha" height="30" width="40" /></a>
+<a href="https://fb.com/rainha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rainha" height="30" width="40" /></a>
+<a href="https://instagram.com/rainha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rainha" height="30" width="40" /></a>
+<a href="https://discord.gg/rainha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rainha" height="30" width="40" /></a>
 </p>
