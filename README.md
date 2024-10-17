@@ -1,10 +1,8 @@
-# Hi 👋, I'm Rainha ❤️
+# Merhaba 👋, Ben Rainha ❤️
 
-I'm from Turkey, and I'm passionate about coding. Currently, I'm a student, always eager to learn and grow.
+Türkiye'de yaşıyorum ve yazılım dünyasına büyük bir tutkuyla bağlıyım. Şu anda öğrenciyim ve her zaman yeni şeyler öğrenmeye, kendimi geliştirmeye hevesliyim. Teknoloji ve programlama benim için sadece bir kariyer yolu değil, aynı zamanda en büyük ilgi alanım.
 
----
-
-## 🚀 Languages and Tools
+## 🚀 Diller ve Araçlar
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -17,19 +15,19 @@ I'm from Turkey, and I'm passionate about coding. Currently, I'm a student, alwa
 
 ---
 
-## 🌟 GitHub Profile Stats
+## 🌟 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/178f196e98d23b92706bf102d96cc0fb03b6c8e01c2a3e5536c797d176971614/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d617976656e30372673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="Top Languages" width="48%" />
-  <img src="https://camo.githubusercontent.com/d3624a1ac966211cc741d6a1f3a3998b857cd9108345bc00643f0f3aabdcc29e/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d7261696e68613837" alt="GitHub Streak" width="48%" />
+  <img src="https://camo.githubusercontent.com/178f196e98d23b92706bf102d96cc0fb03b6c8e01c2a3e5536c797d176971614/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7261696e686138372673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="En Çok Kullanılan Diller" width="48%" />
+  <img src="https://camo.githubusercontent.com/d3624a1ac966211cc741d6a1f3a3998b857cd9108345bc00643f0f3aabdcc29e/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d7261696e68613837" alt="GitHub Serileri" width="48%" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 📫 Benimle İletişime Geçin
 
 <p align="center">
-  <a href="https://twitter.com/rainha87">
+  <a href="https://twitter.com/rainhacimharikasin">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://instagram.com/drienriacht">
@@ -44,4 +42,3 @@ I'm from Turkey, and I'm passionate about coding. Currently, I'm a student, alwa
 </p>
 
 ---
-
